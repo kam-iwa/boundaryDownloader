@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BoundaryDownloader</string>
+    <string name="app_need_perm_title">Needed permissions</string>
+    <string name="app_need_perm_desc">Application needs permission to write, to be able to properly save the downloaded data in the external memory. Do you want to grant the app the necessary permissions?</string>
+    <string name="app_need_perm_positive">Yes</string>
+    <string name="app_need_perm_negative">No</string>
+    <string name="app_features_is_not_polygon">The text is not an area.</string>
+    <string name="app_features_download_error">Failed to download boundary.</string>
+    <string name="app_saving_succesful">"Boundary saved successful in "</string>
+    <string name="app_saving_error">Failed to save boundary.</string>
+    <string name="app_saving_no_perms">No permissions to save boundary.</string>
+    <string name="ui_input"> </string>
+    <string name="ui_input_desc">Name of area to download:</string>
+    <string name="ui_download">Download boundary</string>
+    <string name="ui_save">Save boundary</string>
+    <string name="app_features_length_0">Downloadable boundary is not found.</string>
+    <string name="app_saving_empty">Unable to save an empty file.</string>
+    <string name="perm_granted">Permission granted!</string>
+    <string name="perm_denied">Permission denied...</string>
+    <string name="credits" translatable="false">© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_quit">Quit</string>
+</resources>

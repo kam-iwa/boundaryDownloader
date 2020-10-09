@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_input_desc">Nazwa obszaru do pobrania :</string>
+    <string name="ui_download">Załaduj granicę</string>
+    <string name="ui_save">Zapisz granicę</string>
+    <string name="ui_input">" "</string>
+    <string name="app_need_perm_title">Potrzebne uprawnienia</string>
+    <string name="app_need_perm_desc">Aplikacja potrzebuje uprawnień do zapisu, aby móc poprawnie zapisać pobrane dane dotyczące granic w pamięci zewnętrznej. Czy chcesz przyznać aplikacji niezbędne uprawnienia?</string>
+    <string name="app_need_perm_positive">Tak</string>
+    <string name="app_need_perm_negative">Nie</string>
+    <string name="app_features_length_0">Nie znaleziono granic do pobrania.</string>
+    <string name="app_features_is_not_polygon">Podany tekst nie jest obszarem.</string>
+    <string name="app_features_download_error">Nie udało się pobrać granic.</string>
+    <string name="app_saving_succesful">Pomyślnie zapisano granice w</string>
+    <string name="app_saving_error">Nie udało się zapisać granic.</string>
+    <string name="app_saving_no_perms">Brak uprawnień do zapisu granic.</string>
+    <string name="app_saving_empty">Nie można zapisać pustego pliku.</string>
+    <string name="app_name">BoundaryDownloader</string>
+    <string name="perm_granted">Uprawnienia przyznano!</string>
+    <string name="perm_denied">Nie przyznano uprawnień...</string>
+    <string name="menu_help">Pomoc</string>
+    <string name="menu_quit">Wyjście</string>
+</resources>
